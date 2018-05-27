@@ -16,6 +16,8 @@
   -ms-flex-wrap: nowrap;
       flex-wrap: nowrap;
   margin: 1% .8%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
   outline: 2px dotted blue;
 }
 
